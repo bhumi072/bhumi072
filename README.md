@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 👨‍💻 I am an aspiring **Software Developer / Coder**.
-- 📚 Currently, I am learning **[HTML & CSS,Python basic, Full Stack Development]**.
+- 📚 Currently, I am learning **HTML & CSS, Python basic, Full Stack Development**.
 - 💡 I love building innovative projects and exploring new technologies.
 - 🎯 My goal is to become a pro developer and contribute to open-source projects.
 
@@ -20,16 +20,14 @@
 
 ---
 
-### 📊 My GitHub stats
+### 📊 My GitHub Stats
 
 Here is my live coding track record:
 
-![Your GitHub Stats](https://vercel.app)
+Here is my activity calendar below
 
-![Top Langs](https://vercel.app)
 
----
 
 ### 🤝 Connect with Me
-- 📧 Email: `ak7781957794@gmail.com`
-- 💼 LinkedIn: [https://www.linkedin.com/in/abhishek-kumar-a90684220?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://linkedin.com)
+- 📧 Email: ak7781937794@gmail.com
+- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com)
